@@ -62,7 +62,7 @@ I care about **resilience over cleverness**, **observability over demos**, and e
 
 ### 🚀 Featured projects
 
-#### 🔍 [LLM Lens](https://github.com/thebluetonguegiraffe/llm_lens)
+#### 🔍 [LLM Lens](https://github.com/llm-lens-agent/llm-lens-agent/blob/main/Tech-README.md)
 Agentic website auditor that inspects how a site is perceived, indexed and represented by LLMs. A **multi-node LangGraph agent** with dynamic routing, tool orchestration and human-in-the-loop gates crawls, evaluates and reports on visibility, structure and semantic clarity from a model's point of view. Built as a study in agentic architecture done deliberately; every added node earns its place against a simpler alternative.
 `LangGraph · LangSmith · FastAPI · Python`
 
